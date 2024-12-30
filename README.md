@@ -57,7 +57,6 @@ Soy una persona proactiva y comprometida con el aprendizaje y la excelencia. Con
 ## 📈 **Objetivos**
 - Aplicar mis conocimientos en proyectos que promuevan innovación tecnológica.  
 - Seguir desarrollando habilidades en análisis de datos, programación y tecnologías emergentes.  
-- Realizar un Doctorado en Ingeniería y contribuir al avance del conocimiento en mi campo.
 
 ---
 
