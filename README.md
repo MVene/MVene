@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Milagros Ailín Venecia  
+# ¡Hola! 👋 Soy Milagros Venecia  
 
 🎓 **Estudiante avanzada de Ingeniería en Computación** en la Universidad Nacional de Córdoba (FCEFyN).  
 💻 Apasionada por el aprendizaje continuo, la resolución de problemas y el desarrollo de soluciones tecnológicas que generen impacto.  
